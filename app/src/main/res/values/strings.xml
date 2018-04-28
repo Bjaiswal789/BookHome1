@@ -4,4 +4,7 @@
     <string name="password">Password</string>
     <string name="skip">Skip</string>
     <string name="todo">TODO</string>
+    <string name="divider_or">OR</string>
+    <string name="log_in">Log In</string>
+    <string name="Sign_Up">First time here? Sign up</string>
 </resources>
