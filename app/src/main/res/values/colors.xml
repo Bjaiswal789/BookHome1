@@ -3,6 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="divider">#f5f5f5</color>
-    <color name="divider_or">#999999</color>
+    <color name="divider">#FFAB00</color>
+    <color name="divider_or">#FFAB00</color>
+    <color name="underline">#FFB300</color>
 </resources>
+
+
